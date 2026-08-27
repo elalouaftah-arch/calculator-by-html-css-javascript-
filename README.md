@@ -9,15 +9,17 @@ This project is a web-based calculator designed to perform basic mathematical op
 It was created as a practical project to improve my skills in front-end web development, especially JavaScript logic and DOM manipulation.
 
 ✨ Features
-➕ Addition
-➖ Subtraction
-✖️ Multiplication
-➗ Division
-🔢 Decimal number support
-🧹 Clear/reset functionality
-📱 Responsive design
-🎨 Simple and clean user interface
-🛠️ Technologies Used
+ Addition
+ Subtraction
+ Multiplication
+ Division
+ Decimal number support
+ Clear/reset functionality
+ Responsive design
+ Simple and clean user interface
+ 
+ 
+ Technologies Used
 HTML5 — Structure
 CSS3 — Styling and responsive design
 JavaScript — Calculator logic and interactions
@@ -36,7 +38,7 @@ Open index.html in your web browser.
 
 That's it! 🎉
 
-🎯 Purpose
+ Purpose
 
 The main goal of this project is to practice:
 
@@ -46,11 +48,7 @@ Event handling
 CSS layouts
 Responsive web design
 Building interactive web applications
-📸 Preview
-
-Add a screenshot of your calculator here:
-
-![Calculator Preview](./screenshot.png)
+ 
 🔮 Future Improvements
 Add keyboard support
 Add calculation history
@@ -60,10 +58,8 @@ Improve animations and UI
 👨‍💻 Author
 
 Abd El Fattah El Aloua
-
-Cybersecurity Engineering Student & Developer
+I am a high school student passionate about Cybersecurity and Programming.
 
 GitHub:
-https://github.com/elalouaftah-arch
-
-⭐ If you like this project, consider giving the repository a star!
+ه
+ If you like this project, consider giving the repository a star!
