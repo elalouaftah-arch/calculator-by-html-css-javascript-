@@ -1,65 +1,34 @@
-Calculator — HTML, CSS & JavaScript
+<div align="center">
+🧮 Calculator — HTML, CSS & JavaScript
+A simple, clean & responsive calculator built with pure front-end magic ✨
 
-A simple and responsive calculator built using HTML, CSS, and JavaScript.
+Show Image Show Image Show Image
 
+</div>
 📌 About the Project
 
 This project is a web-based calculator designed to perform basic mathematical operations through a clean and user-friendly interface.
 
-It was created as a practical project to improve my skills in front-end web development, especially JavaScript logic and DOM manipulation.
+It was built as a hands-on project to sharpen front-end development skills — especially JavaScript logic and DOM manipulation. 🧠💻
 
 ✨ Features
- Addition
- Subtraction
- Multiplication
- Division
- Decimal number support
- Clear/reset functionality
- Responsive design
- Simple and clean user interface
- 
- 
- Technologies Used
-HTML5 — Structure
-CSS3 — Styling and responsive design
-JavaScript — Calculator logic and interactions
+Feature	Status
+➕ Addition	✅
+➖ Subtraction	✅
+✖️ Multiplication	✅
+➗ Division	✅
+🔢 Decimal number support	✅
+🔄 Clear / Reset functionality	✅
+📱 Responsive design	✅
+🎨 Simple & clean UI	✅
+🛠️ Technologies Used
+🧱 HTML5 — Structure
+🎨 CSS3 — Styling & responsive design
+⚙️ JavaScript — Calculator logic & interactivity
 📂 Project Structure
 calculator-by-html-css-javascript/
 │
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-🚀 How to Run
-Clone the repository:
-git clone https://github.com/elalouaftah-arch/calculator-by-html-css-javascript-.git
-Open the project folder.
-Open index.html in your web browser.
-
-That's it! 🎉
-
- Purpose
-
-The main goal of this project is to practice:
-
-JavaScript fundamentals
-DOM manipulation
-Event handling
-CSS layouts
-Responsive web design
-Building interactive web applications
- 
-🔮 Future Improvements
-Add keyboard support
-Add calculation history
-Add dark/light mode
-Add scientific calculator functions
-Improve animations and UI
-👨‍💻 Author
-
-Abd El Fattah El Aloua
-I am a high school student passionate about Cybersecurity and Programming.
-
-GitHub:
-ه
- If you like this project, consider giving the repository a star!
+├── index.html      # Main structure
+├── style.css       # Styling
+├── script.js       # Calculator logic
+└── README.md        # You're here 👋
